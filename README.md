@@ -1,21 +1,86 @@
-# 💫 About Me:
-🔭 Приветствую, я C#/.NET разработчик, люблю превращать идеи в креативные и надёжные приложения.<br>💬 Изучаю новые технологии и постоянно совершенствуюсь, чтобы создавать современные и масштабируемые решения.<br>📚 Всегда учусь и всегда пишу код.
+<div align="center">
+  <h1>Привет! 👋 Я Глеб</h1>
+  <p>Backend-разработчик из Москвы. Люблю превращать идеи в масштабируемые и работающие проекты.</p>
+</div>
 
+---
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=glebkapsutin&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=glebkapsutin&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=glebkapsutin&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <h2>💻 Навыки</h2>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title=".NET"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" title="RabbitMQ"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="REST API"/>
+  </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=glebkapsutin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <h3>Прогресс навыков</h3>
+  <p>
+    C# | ██████████ 95% <br/>
+    .NET | █████████ 90% <br/>
+    PostgreSQL | ████████ 80% <br/>
+    Docker | ███████ 75% <br/>
+    Redis | ███████ 70% <br/>
+    RabbitMQ | ███████ 70% <br/>
+    REST API | █████████ 85%
+  </p>
+</div>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Pet-projects
-![](https://github-contributor-stats.vercel.app/api?username=glebkapsutin&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div align="center">
+  <h2>📊 GitHub Статистика</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=glebkapsutin&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=glebkapsutin&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  </p>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<div align="center">
+  <h2>🚀 Ключевые проекты</h2>
+
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/glebkapsutin/DeveloperForum">
+          <img src="https://img.shields.io/badge/DeveloperForum-blueviolet?style=for-the-badge" alt="DeveloperForum"/><br/>
+          Форум для разработчиков с ASP.NET Core, PostgreSQL и Docker
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/glebkapsutin/KanbanAPP">
+          <img src="https://img.shields.io/badge/KanbanAPP-green?style=for-the-badge" alt="KanbanAPP"/><br/>
+          Полноценная Kanban доска с backend на ASP.NET Core и frontend на React
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/glebkapsutin/SteamApi">
+          <img src="https://img.shields.io/badge/SteamApi-orange?style=for-the-badge" alt="SteamApi"/><br/>
+          API для работы с играми Steam, REST и интеграции с .NET
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/glebkapsutin/WeatherApp">
+          <img src="https://img.shields.io/badge/WeatherApp-lightblue?style=for-the-badge" alt="WeatherApp"/><br/>
+          Приложение погоды на .NET MAUI и XAML с красивым UI
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <p>📫 Связаться со мной: <a href="mailto:gleb@example.com">gleb@example.com</a></p>
+  <p>Made with ❤️ and <b>Clean Code</b></p>
+</div>
