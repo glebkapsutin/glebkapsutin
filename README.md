@@ -1,28 +1,21 @@
 <div align="center">
 
+  <!-- ===== ЗАГОЛОВОК (гарантированно работает) ===== -->
+  <h1>👋 Привет! Я Глеб</h1>
+  <p><b>Backend-разработчик на C# и .NET</b> • Микросервисы • Clean Architecture • Event-Driven</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&color=00FFA3&center=true&vCenter=true&width=800&lines=Привет%2C+я+Глеб!;Backend-разработчик+на+C%23+.NET;Микросервисы+%7C+Clean+Architecture+%7C+Event-Driven" alt="Typing SVG" />
+  <br/>
 
-  <br/><br/>
-
-
+  <!-- ===== СТАТИСТИКА (если не загрузится — ничего не сломается) ===== -->
   <h2>📊 GitHub Stats</h2>
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=glebkapsutin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="180" />
-  
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glebkapsutin&layout=compact&theme=radical&hide_border=false" height="180" />
-
-
-  <img src="https://streak-stats.demolab.com/?user=glebkapsutin&theme=radical&hide_border=false" width="500" />
-
-
-  <img src="https://github-profile-trophy.vercel.app/?username=glebkapsutin&theme=radical&row=1&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=glebkapsutin&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glebkapsutin&layout=compact&theme=radical" height="160" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=glebkapsutin&theme=radical" width="500" alt="Streak Stats" />
 
   <br/><br/>
 
-  <!-- НАВЫКИ -->
+  <!-- ===== ТЕХНОЛОГИИ ===== -->
   <h2>🛠️ Технологический стек</h2>
   <p>
     <img src="https://img.shields.io/badge/C%23-95%25-brightgreen?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -31,15 +24,11 @@
     <img src="https://img.shields.io/badge/Docker-75%25-2496ED?style=flat-square&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Redis-70%25-DC382D?style=flat-square&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/RabbitMQ-70%25-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-    <img src="https://img.shields.io/badge/SignalR-65%25-512BD4?style=flat-square&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/xUnit-70%25-000000?style=flat-square&logo=xunit&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-60%25-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/Azure-65%25-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   </p>
 
   <br/><br/>
 
-  <!-- ПРОЕКТЫ -->
+  <!-- ===== ПРОЕКТЫ (с рабочими иконками) ===== -->
   <h2>🚀 Ключевые проекты</h2>
 
   <table>
@@ -55,23 +44,23 @@
         <a href="https://github.com/glebkapsutin/KanbanAPP">
           <img src="https://cdn.simpleicons.org/react/61DAFB" width="64" alt="React" />
           <br/><b>KanbanAPP</b><br/>
-          <sub>.NET API • React • JWT Auth • Entity Framework</sub>
+          <sub>.NET API • React • JWT Auth</sub>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="48%">
         <a href="https://github.com/glebkapsutin/SteamApi">
-          <img src="https://cdn.simpleicons.org/steam/1B2835" width="64" alt="Steam" />
+          <img src="https://cdn.simpleicons.org/steam/FFFFFF" width="64" alt="Steam" />
           <br/><b>Steam REST API</b><br/>
-          <sub>Caching (Redis) • Rate Limiting • Swagger</sub>
+          <sub>Redis Cache • Rate Limiting • Swagger</sub>
         </a>
       </td>
       <td align="center" width="48%">
         <a href="https://github.com/glebkapsutin/WeatherApp">
-          <img src="https://cdn.simpleicons.org/openweathermap/1B2835" width="64" alt="Weather" />
+          <img src="https://cdn.simpleicons.org/openweathermap/1B2835" width="64" alt="OpenWeather" />
           <br/><b>WeatherApp (.NET MAUI)</b><br/>
-          <sub>Cross-platform • OpenWeather API • XAML</sub>
+          <sub>Cross-platform • OpenWeather API</sub>
         </a>
       </td>
     </tr>
@@ -79,7 +68,7 @@
 
   <br/><br/>
 
-  <!-- КОНТАКТЫ -->
+  <!-- ===== КОНТАКТЫ ===== -->
   <h2>📬 Связаться со мной</h2>
   <p>
     <a href="https://t.me/gleb_kapsutin">
@@ -89,5 +78,5 @@
 
   <br/>
 
-  <p>✨ Создаю масштабируемые решения, которые снижают операционные затраты и повышают эффективность бизнеса</p>
+  <p>✨ Создаю масштабируемые решения, снижающие операционные затраты бизнеса</p>
 </div>
