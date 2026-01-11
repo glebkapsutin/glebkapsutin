@@ -9,8 +9,7 @@
   <!-- ===== СТАТИСТИКА (если не загрузится — ничего не сломается) ===== -->
   <h2>📊 GitHub Stats</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=glebkapsutin&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glebkapsutin&layout=compact&theme=radical" height="160" alt="Top Languages" />
+
   <img src="https://streak-stats.demolab.com/?user=glebkapsutin&theme=radical" width="500" alt="Streak Stats" />
 
   <br/><br/>
