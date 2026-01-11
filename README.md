@@ -1,23 +1,23 @@
 <div align="center">
 
-  <!-- Анимированный заголовок (SVG-картинка, всегда работает) -->
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&color=00FFA3&center=true&vCenter=true&width=800&lines=Привет%2C+я+Глеб!;Backend-разработчик+на+C%23+.NET;Микросервисы+%7C+Clean+Architecture+%7C+Event-Driven" alt="Typing SVG" />
 
   <br/><br/>
 
-  <!-- СТАТИСТИКА -->
+
   <h2>📊 GitHub Stats</h2>
 
-  <!-- Основная статистика с ВСЕМИ коммитами -->
+
   <img src="https://github-readme-stats.vercel.app/api?username=glebkapsutin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="180" />
   
-  <!-- Топ языков -->
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glebkapsutin&layout=compact&theme=radical&hide_border=false" height="180" />
 
-  <!-- Streak (ежедневные коммиты) -->
+
   <img src="https://streak-stats.demolab.com/?user=glebkapsutin&theme=radical&hide_border=false" width="500" />
 
-  <!-- Trophy (достижения) -->
+
   <img src="https://github-profile-trophy.vercel.app/?username=glebkapsutin&theme=radical&row=1&column=6&margin-w=10&margin-h=10" />
 
   <br/><br/>
