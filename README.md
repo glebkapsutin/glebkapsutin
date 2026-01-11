@@ -28,45 +28,43 @@
 
   <br/><br/>
 
-  <!-- ===== ПРОЕКТЫ (с рабочими иконками) ===== -->
-  <h2>🚀 Ключевые проекты</h2>
+ <!-- ===== ПРОЕКТЫ ===== -->
+<h2>🚀 Ключевые проекты</h2>
 
-  <table>
-    <tr>
-      <td align="center" width="48%">
-        <a href="https://github.com/glebkapsutin/DeveloperForum">
-          <img src="https://cdn.simpleicons.org/csharp/66B2FF" width="64" alt="C#" />
-          <br/><b>DeveloperForum</b><br/>
-          <sub>ASP.NET Core • PostgreSQL • Docker • SignalR</sub>
-        </a>
-      </td>
-      <td align="center" width="48%">
-        <a href="https://github.com/glebkapsutin/KanbanAPP">
-          <img src="https://cdn.simpleicons.org/react/61DAFB" width="64" alt="React" />
-          <br/><b>KanbanAPP</b><br/>
-          <sub>.NET API • React • JWT Auth</sub>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="48%">
-        <a href="https://github.com/glebkapsutin/SteamApi">
-          <img src="https://cdn.simpleicons.org/steam/FFFFFF" width="64" alt="Steam" />
-          <br/><b>Steam REST API</b><br/>
-          <sub>Redis Cache • Rate Limiting • Swagger</sub>
-        </a>
-      </td>
-      <td align="center" width="48%">
-        <a href="https://github.com/glebkapsutin/WeatherApp">
-          <img src="https://cdn.simpleicons.org/openweathermap/1B2835" width="64" alt="OpenWeather" />
-          <br/><b>WeatherApp (.NET MAUI)</b><br/>
-          <sub>Cross-platform • OpenWeather API</sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br/><br/>
+<table>
+  <tr>
+    <td align="center" width="48%">
+      <a href="https://github.com/glebkapsutin/DeveloperForum">
+        <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="64" alt=".NET" />
+        <br/><b>DeveloperForum</b><br/>
+        <sub>ASP.NET Core • PostgreSQL • Docker • SignalR</sub>
+      </a>
+    </td>
+    <td align="center" width="48%">
+      <a href="https://github.com/glebkapsutin/KanbanAPP">
+        <img src="https://cdn.simpleicons.org/react/61DAFB" width="64" alt="React" />
+        <br/><b>KanbanAPP</b><br/>
+        <sub>.NET API • React • JWT Auth</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="48%">
+      <a href="https://github.com/glebkapsutin/SteamApi">
+        <img src="https://cdn.simpleicons.org/steam/FFFFFF" width="64" alt="Steam" />
+        <br/><b>Steam REST API</b><br/>
+        <sub>Redis Cache • Rate Limiting • Swagger</sub>
+      </a>
+    </td>
+    <td align="center" width="48%">
+      <a href="https://github.com/glebkapsutin/WeatherApp">
+        <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="64" alt=".NET MAUI" />
+        <br/><b>WeatherApp (.NET MAUI)</b><br/>
+        <sub>Cross-platform • OpenWeather API</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
   <!-- ===== КОНТАКТЫ ===== -->
   <h2>📬 Связаться со мной</h2>
